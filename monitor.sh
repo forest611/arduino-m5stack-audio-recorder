@@ -1,0 +1,1 @@
+arduino-cli monitor -p /dev/cu.usbserial-495A2F8412 --config 115200
